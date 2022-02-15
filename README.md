@@ -1,16 +1,14 @@
 # Drum-Kit
 
-Sound on
-
-https://user-images.githubusercontent.com/72337379/150754438-70903398-514a-46e8-af57-891b253a75b4.mp4
-
-https://rifaath101.github.io/Drum-Kit/
-
-Purpose : 
+## Purpose : 
 
 To understand how to incorporate javascript into my projects
 
-Concepts learned :
+## Concepts learned :
 
 1. How to use the DOM
 2. Using different functions to add more functionality
+
+## Screenshot
+
+![image](https://user-images.githubusercontent.com/72337379/154087482-a5d62daf-4483-407c-94ae-5ffd616d71f5.png)
